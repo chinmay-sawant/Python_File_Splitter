@@ -9,8 +9,9 @@
   </ul>
 
 Your Directory
-->
-Final_Splitter_CSV.py ||
-Splitter.ini ||
-Source (Folder contains your files to split) ||
-Destination (Folder)
+|-Final_Splitter_CSV.py
+|-Splitter.ini
+|-Source (Folder contains your files to split) ||
+|-Destination (Folder where files will be splitted)
+  
+
