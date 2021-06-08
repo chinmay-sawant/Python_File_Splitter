@@ -10,6 +10,7 @@
 
 Your Directory
 |
+|
 Final_Splitter_CSV.py
 Splitter.ini
 Source (Folder contains your files to split)
