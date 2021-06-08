@@ -17,6 +17,6 @@
 ├── Source (Folder contains your files to split)
     ├── Your Source File Will be here
 ├── Destination (Folder where files will be splitted)
-    ├── Destination for splitted path
+    ├── Destination files will be here
 ```
   
