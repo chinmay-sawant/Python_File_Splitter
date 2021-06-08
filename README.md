@@ -8,4 +8,9 @@
     <li>Change the value in splitter.ini to your choice and the files will be split and available in destination directory !!!</li>
   </ul>
 
-
+Your Directory
+|
+Final_Splitter_CSV.py
+Splitter.ini
+Source (Folder contains your files to split)
+ Destination (Folder)
